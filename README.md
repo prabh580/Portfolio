@@ -4,7 +4,10 @@
 - [Delta Airlines Financial Analysis](https://github.com/prabh580/Financial_analysis)
 
 ## Capstone Project
-- [Capstone_spotify](https://github.com/prabh580/Capstone_project)
+- [Capstone project](https://github.com/prabh580/Capstone_project)
+
+## Cost Analysis
+- [Cost analysis](https://github.com/prabh580/Cost-Analysis)
   
 ## Marketing Projects
 - [Marketing Analytics Project](https://github.com/prabh580/marketing_analysis)
